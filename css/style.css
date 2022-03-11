@@ -17,7 +17,7 @@ h2{
 
 .par{
     text-align: center;
-    font-size: 36px;
+    font-size: 80px;
     color: white;
     font-family: 'Teko', sans-serif;
 }
@@ -45,4 +45,15 @@ button{
     font-size: 36px;
     color: white;
     font-family: 'Teko', sans-serif;
+}
+
+.clock{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 7px;
+
+
 }
